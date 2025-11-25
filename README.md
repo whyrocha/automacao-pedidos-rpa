@@ -1,4 +1,4 @@
-🤖 RPA – Automação de Digitação de Pedidos em Sistema Desktop
+🤖 **RPA – Automação de Digitação de Pedidos em Sistema Desktop**
 
 Este projeto implementa um RPA (Robotic Process Automation) que lê um arquivo CSV com pedidos e digita automaticamente os dados em um sistema desktop que não possui API ou integração nativa. Ele é pensado para trabalhar em conjunto com o processo de leitura de pedidos por visão de IA:
 
